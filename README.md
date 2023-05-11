@@ -14,5 +14,4 @@ Questions I answered using SparkSQL:
 I attended class, reviewed our in-class activities, read through my notes and did some online research for the support needed for this challenge assignment. 
 
 ## Submission Includes
-* Downloaded .ipynb file: Home_Sales_LJordan_colab.ipynb
 * Google Colab file saved directly to GitHub: Home_Sales_LJordan_colab.ipynb
