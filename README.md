@@ -15,3 +15,4 @@ I attended class, reviewed our in-class activities, read through my notes and di
 
 ## Submission Includes
 * Google Colab file saved directly to GitHub: Home_Sales_LJordan_colab.ipynb
+* Resubmission with corrected SQL code: Home_Sales_LJordan_colab-Updated.ipynb
